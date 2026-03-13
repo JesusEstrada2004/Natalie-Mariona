@@ -3,7 +3,7 @@ export const testimonials = [
     name: "Carlos M.",
     role: "Cliente desde Estados Unidos",
     message:
-      "La Lic. Adriana me ayudó a resolver mi proceso legal en El Salvador mientras estaba en el extranjero. Todo fue claro y profesional.",
+      "Lic. Natalie Beatriz me ayudó a resolver mi proceso legal en El Salvador mientras estaba en el extranjero. Todo fue claro y profesional.",
     image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
   },
   {

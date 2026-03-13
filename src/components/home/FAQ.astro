@@ -2,9 +2,9 @@
 import { faqs } from "../../Data/faqs.js";
 ---
 
-<section class="py-20 bg-base-200">
+<section class="py-20  bg-white rounded-2xl shadow-sm]">
   <div class="max-w-5xl mx-auto px-6">
-    <h2 class="text-3xl md:text-4xl font-bold text-center text-[#0B2545] mb-8">
+    <h2 class="text-3xl md:text-4xl font-bold text-center text-[#2F2623] mb-8">
       Preguntas Frecuentes
     </h2>
 
@@ -13,7 +13,7 @@ import { faqs } from "../../Data/faqs.js";
         faqs.map((faq, index) => (
           <div class="collapse collapse-plus border border-base-300 bg-base-100 rounded-lg">
             <input type="radio" name="faq-accordion" checked={index === 0} />
-            <div class="collapse-title text-lg font-semibold text-[#0B2545]">
+            <div class="collapse-title text-lg font-semibold text-[#2F2623]">
               {faq.question}
             </div>
             <div class="collapse-content text-gray-600">

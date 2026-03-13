@@ -3,7 +3,7 @@ export const faqs = [
   {
     question: '¿Qué tipo de casos legales atiende?',
     answer:
-      'Atendemos principalmente casos relacionados con derecho familiar, como divorcios, custodia de hijos, acuerdos legales familiares y asesoría jurídica para resolver conflictos de forma clara y profesional.',
+      'Atendemos principalmente casos relacionados con procesos de bienes inmuebles, elaboración de documentos legales y diligencias ante instituciones públicas ',
   },
   {
     question: '¿Cómo puedo agendar una consulta?',
